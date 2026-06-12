@@ -1,0 +1,2 @@
+# DTC-Galgotias-Batch5-Task7-Spider-Vision-Intelligence-Gap-Analysis
+Gap Analysis for Spider Vision Intelligence, an AI-Powered Social Media Security &amp; Threat Detection System. The project identifies current social media security challenges, analyzes existing gaps, and proposes an AI-driven solution for real-time threat detection, account protection, breach monitoring, and centralized cybersecurity management.
